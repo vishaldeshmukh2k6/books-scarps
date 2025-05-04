@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Louisa: The Extraordinary Life of Mrs. Adams",
+        "price": "\u00a316.85",
+        "image_url": "https://books.toscrape.com/media/cache/6f/d9/6fd92e5143cbd5bb8bcf034e5f007dde.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html"
+    },
+    {
+        "title": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+        "price": "\u00a321.15",
+        "image_url": "https://books.toscrape.com/media/cache/8b/c4/8bc43a6b42d0283ab4bf611f1b497126.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html"
+    },
+    {
+        "title": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+        "price": "\u00a339.55",
+        "image_url": "https://books.toscrape.com/media/cache/cc/a4/cca4e6a4cd5c207e7ce7d992ff464c3b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html"
+    },
+    {
+        "title": "Benjamin Franklin: An American Life",
+        "price": "\u00a348.19",
+        "image_url": "https://books.toscrape.com/media/cache/25/f8/25f869fa75340fca0fc2a68e8a0412a1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html"
+    },
+    {
+        "title": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+        "price": "\u00a342.57",
+        "image_url": "https://books.toscrape.com/media/cache/ff/d4/ffd45d95f314555e20c923d3522adea7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html"
+    }
+]

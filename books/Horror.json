@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Security",
+        "price": "\u00a339.25",
+        "image_url": "https://books.toscrape.com/media/cache/da/df/dadfac66a89774b46b10225362724c83.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/security_925/index.html"
+    },
+    {
+        "title": "Follow You Home",
+        "price": "\u00a321.36",
+        "image_url": "https://books.toscrape.com/media/cache/a7/4b/a74b35375ce874153fd352e33bc7bac9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/follow-you-home_809/index.html"
+    },
+    {
+        "title": "The Loney",
+        "price": "\u00a323.40",
+        "image_url": "https://books.toscrape.com/media/cache/6d/10/6d10387a0175701d4ff456a0c7eee67b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-loney_756/index.html"
+    },
+    {
+        "title": "Pet Sematary",
+        "price": "\u00a310.56",
+        "image_url": "https://books.toscrape.com/media/cache/7a/72/7a72465b21dbf998323e37b31f9a3f4a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/pet-sematary_726/index.html"
+    },
+    {
+        "title": "Doctor Sleep (The Shining #2)",
+        "price": "\u00a340.12",
+        "image_url": "https://books.toscrape.com/media/cache/55/bf/55bfc858c1cb19867e41415532ae43c6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html"
+    },
+    {
+        "title": "Psycho: Sanitarium (Psycho #1.5)",
+        "price": "\u00a336.97",
+        "image_url": "https://books.toscrape.com/media/cache/02/5c/025c30a378e2a4190e84f1429e81b803.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html"
+    },
+    {
+        "title": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+        "price": "\u00a348.64",
+        "image_url": "https://books.toscrape.com/media/cache/0b/2f/0b2f432cc27132f688fcdf29618521e0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html"
+    },
+    {
+        "title": "Red Dragon (Hannibal Lecter #1)",
+        "price": "\u00a323.37",
+        "image_url": "https://books.toscrape.com/media/cache/30/66/3066f8bcd2e2ed6b45084355ff084a61.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html"
+    },
+    {
+        "title": "Dracula the Un-Dead",
+        "price": "\u00a335.63",
+        "image_url": "https://books.toscrape.com/media/cache/13/ff/13fffcde653948339d3427184b7bd0b5.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html"
+    },
+    {
+        "title": "Night Shift (Night Shift #1-20)",
+        "price": "\u00a312.75",
+        "image_url": "https://books.toscrape.com/media/cache/c0/02/c0029d48c2588e6d2a6a31c9f96088ba.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html"
+    },
+    {
+        "title": "Needful Things",
+        "price": "\u00a347.51",
+        "image_url": "https://books.toscrape.com/media/cache/2d/e0/2de0eff716ca13d12cf5420e88e1a8b3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/needful-things_334/index.html"
+    },
+    {
+        "title": "Misery",
+        "price": "\u00a334.79",
+        "image_url": "https://books.toscrape.com/media/cache/7c/93/7c9302e392e128881e926d19f761da33.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/misery_332/index.html"
+    },
+    {
+        "title": "It",
+        "price": "\u00a325.01",
+        "image_url": "https://books.toscrape.com/media/cache/f7/b7/f7b73392b12909a1e8261ef3f96c5fd1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/it_330/index.html"
+    },
+    {
+        "title": "'Salem's Lot",
+        "price": "\u00a349.56",
+        "image_url": "https://books.toscrape.com/media/cache/ee/d3/eed3afc5e444e3da5eec34e2b0036ec7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/salems-lot_309/index.html"
+    },
+    {
+        "title": "The Stand",
+        "price": "\u00a357.86",
+        "image_url": "https://books.toscrape.com/media/cache/3a/7c/3a7c2393061031e7911d7b533b723391.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-stand_282/index.html"
+    },
+    {
+        "title": "The Girl with All the Gifts",
+        "price": "\u00a349.47",
+        "image_url": "https://books.toscrape.com/media/cache/41/c7/41c74d82b853606fe98182c417b4669c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html"
+    },
+    {
+        "title": "House of Leaves",
+        "price": "\u00a354.89",
+        "image_url": "https://books.toscrape.com/media/cache/14/25/142563ccee483bc07632f9c083a68326.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/house-of-leaves_169/index.html"
+    }
+]

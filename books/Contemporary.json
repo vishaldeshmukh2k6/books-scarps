@@ -1,0 +1,20 @@
+[
+    {
+        "title": "When We Collided",
+        "price": "\u00a331.77",
+        "image_url": "https://books.toscrape.com/media/cache/08/04/08044269fc197645268a6197c57e6173.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html"
+    },
+    {
+        "title": "Someone Like You (The Harrisons #2)",
+        "price": "\u00a352.79",
+        "image_url": "https://books.toscrape.com/media/cache/e3/d0/e3d05227f3fc24f0e0c84ccebe108fb0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html"
+    },
+    {
+        "title": "We Are All Completely Beside Ourselves",
+        "price": "\u00a324.04",
+        "image_url": "https://books.toscrape.com/media/cache/4d/18/4d1891e435c6692c864331c585e0d014.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html"
+    }
+]

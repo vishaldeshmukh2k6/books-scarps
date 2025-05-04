@@ -1,0 +1,116 @@
+[
+    {
+        "title": "A Light in the Attic",
+        "price": "\u00a351.77",
+        "image_url": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+    },
+    {
+        "title": "The Black Maria",
+        "price": "\u00a352.15",
+        "image_url": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+    },
+    {
+        "title": "Shakespeare's Sonnets",
+        "price": "\u00a320.66",
+        "image_url": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+    },
+    {
+        "title": "Olio",
+        "price": "\u00a323.88",
+        "image_url": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/olio_984/index.html"
+    },
+    {
+        "title": "You can't bury them all: Poems",
+        "price": "\u00a333.63",
+        "image_url": "https://books.toscrape.com/media/cache/e9/20/e9203b733126c4a0832a1c7885dc27cf.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html"
+    },
+    {
+        "title": "Slow States of Collapse: Poems",
+        "price": "\u00a357.31",
+        "image_url": "https://books.toscrape.com/media/cache/72/41/72417db983862010ef0c1a25de98c7d7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html"
+    },
+    {
+        "title": "Untitled Collection: Sabbath Poems 2014",
+        "price": "\u00a314.27",
+        "image_url": "https://books.toscrape.com/media/cache/f9/3b/f93b4a650f03a5d21f2436d7813f42c2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html"
+    },
+    {
+        "title": "Poems That Make Grown Women Cry",
+        "price": "\u00a314.19",
+        "image_url": "https://books.toscrape.com/media/cache/38/64/386468a8c3e6b880664bf7885bf6f726.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html"
+    },
+    {
+        "title": "Night Sky with Exit Wounds",
+        "price": "\u00a341.05",
+        "image_url": "https://books.toscrape.com/media/cache/25/54/2554431c797ec725eea50b3f8a83758c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html"
+    },
+    {
+        "title": "salt.",
+        "price": "\u00a346.78",
+        "image_url": "https://books.toscrape.com/media/cache/3f/41/3f4160ada0b16e3c64cd2d0dffe781c8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/salt_731/index.html"
+    },
+    {
+        "title": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+        "price": "\u00a350.89",
+        "image_url": "https://books.toscrape.com/media/cache/c8/f2/c8f297fab080ddd02b3ed5c17b83af85.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html"
+    },
+    {
+        "title": "Out of Print: City Lights Spotlight No. 14",
+        "price": "\u00a353.64",
+        "image_url": "https://books.toscrape.com/media/cache/93/d5/93d5c64abfad9ed6a0cb2e26f19f1a1e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html"
+    },
+    {
+        "title": "Les Fleurs du Mal",
+        "price": "\u00a329.04",
+        "image_url": "https://books.toscrape.com/media/cache/36/5b/365b3ab7ab72a6258873716aef6d5c1a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html"
+    },
+    {
+        "title": "Howl and Other Poems",
+        "price": "\u00a340.45",
+        "image_url": "https://books.toscrape.com/media/cache/b7/29/b7293f602efb0c17e305077f8175888a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html"
+    },
+    {
+        "title": "Leave This Song Behind: Teen Poetry at Its Best",
+        "price": "\u00a351.17",
+        "image_url": "https://books.toscrape.com/media/cache/31/c7/31c7c5ce7b04d227aa36ecb250b9dad5.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html"
+    },
+    {
+        "title": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+        "price": "\u00a315.42",
+        "image_url": "https://books.toscrape.com/media/cache/7e/93/7e934132cd03486649fb492fe702f704.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html"
+    },
+    {
+        "title": "The Crossover",
+        "price": "\u00a338.77",
+        "image_url": "https://books.toscrape.com/media/cache/9f/35/9f351ca1978128c60a3b7f85987075b3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-crossover_398/index.html"
+    },
+    {
+        "title": "Booked",
+        "price": "\u00a317.49",
+        "image_url": "https://books.toscrape.com/media/cache/8f/46/8f46bb13feb3a4440a27dfcf688fbaa6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/booked_365/index.html"
+    },
+    {
+        "title": "Twenty Love Poems and a Song of Despair",
+        "price": "\u00a330.95",
+        "image_url": "https://books.toscrape.com/media/cache/df/ab/dfab1d94f9190df7c13b63a093a6d16e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html"
+    }
+]

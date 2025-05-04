@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Rip it Up and Start Again",
+        "price": "\u00a335.02",
+        "image_url": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+    },
+    {
+        "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "\u00a357.25",
+        "image_url": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+    },
+    {
+        "title": "How Music Works",
+        "price": "\u00a337.32",
+        "image_url": "https://books.toscrape.com/media/cache/5c/c8/5cc8e107246cb478960d4f0aba1e1c8e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html"
+    },
+    {
+        "title": "Love Is a Mix Tape (Music #1)",
+        "price": "\u00a318.03",
+        "image_url": "https://books.toscrape.com/media/cache/a2/6d/a26d8449abb3381e09126eda5f4e8151.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html"
+    },
+    {
+        "title": "Please Kill Me: The Uncensored Oral History of Punk",
+        "price": "\u00a331.19",
+        "image_url": "https://books.toscrape.com/media/cache/06/f1/06f185c0be2ad6e2fe059464c03f1b47.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html"
+    },
+    {
+        "title": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "price": "\u00a345.05",
+        "image_url": "https://books.toscrape.com/media/cache/85/42/8542841f5644a6daf433504f1e106e97.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html"
+    },
+    {
+        "title": "Chronicles, Vol. 1",
+        "price": "\u00a352.60",
+        "image_url": "https://books.toscrape.com/media/cache/11/fc/11fc94453c4dc0d68543971d7843afb0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html"
+    },
+    {
+        "title": "This Is Your Brain on Music: The Science of a Human Obsession",
+        "price": "\u00a338.40",
+        "image_url": "https://books.toscrape.com/media/cache/35/a4/35a4a7c6c76c4e82186753078e441654.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html"
+    },
+    {
+        "title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "price": "\u00a312.36",
+        "image_url": "https://books.toscrape.com/media/cache/15/de/15de75548ee9a4c6be1420ee309c03e0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html"
+    },
+    {
+        "title": "No One Here Gets Out Alive",
+        "price": "\u00a320.02",
+        "image_url": "https://books.toscrape.com/media/cache/7a/7e/7a7eb52e7075a5305522948375c1316e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html"
+    },
+    {
+        "title": "Life",
+        "price": "\u00a331.58",
+        "image_url": "https://books.toscrape.com/media/cache/99/97/9997eda658c2fe50e724171f9c2a2b0b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/life_104/index.html"
+    },
+    {
+        "title": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "price": "\u00a355.66",
+        "image_url": "https://books.toscrape.com/media/cache/7e/94/7e947f3dd04f178175b85123829467a9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html"
+    },
+    {
+        "title": "Forever Rockers (The Rocker #12)",
+        "price": "\u00a328.80",
+        "image_url": "https://books.toscrape.com/media/cache/7f/b0/7fb03a053c270000667a50dd8d594843.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html"
+    }
+]

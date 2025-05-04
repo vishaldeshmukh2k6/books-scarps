@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Birdsong: A Story in Pictures",
+        "price": "\u00a354.64",
+        "image_url": "https://books.toscrape.com/media/cache/af/6e/af6e796160fe63e0cf19d44395c7ddf2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html"
+    },
+    {
+        "title": "The Bear and the Piano",
+        "price": "\u00a336.89",
+        "image_url": "https://books.toscrape.com/media/cache/cf/bb/cfbb5e62715c6d888fd07794c9bab5d6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html"
+    },
+    {
+        "title": "The Secret of Dreadwillow Carse",
+        "price": "\u00a356.13",
+        "image_url": "https://books.toscrape.com/media/cache/c4/a2/c4a2a1a026c67bcceb5a411c724d7d0c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html"
+    },
+    {
+        "title": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d",
+        "price": "\u00a358.08",
+        "image_url": "https://books.toscrape.com/media/cache/26/32/2632a1e12f2c085fabbe022ae4cd6933.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html"
+    },
+    {
+        "title": "Little Red",
+        "price": "\u00a313.47",
+        "image_url": "https://books.toscrape.com/media/cache/80/25/8025b80a40178f2a6dd4f99ad88e0fba.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/little-red_817/index.html"
+    },
+    {
+        "title": "Walt Disney's Alice in Wonderland",
+        "price": "\u00a312.96",
+        "image_url": "https://books.toscrape.com/media/cache/28/50/2850439c2ba103fb69dba9cd2dd9f0c2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html"
+    },
+    {
+        "title": "Twenty Yawns",
+        "price": "\u00a322.08",
+        "image_url": "https://books.toscrape.com/media/cache/2b/38/2b380f77723c797c0389f978afa6db58.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/twenty-yawns_773/index.html"
+    },
+    {
+        "title": "Rain Fish",
+        "price": "\u00a323.57",
+        "image_url": "https://books.toscrape.com/media/cache/bb/e2/bbe26db72b8a32117bfe4981b7cc8147.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/rain-fish_728/index.html"
+    },
+    {
+        "title": "Once Was a Time",
+        "price": "\u00a318.28",
+        "image_url": "https://books.toscrape.com/media/cache/97/12/971212afa8e4ff49d92f678bc889d8b7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/once-was-a-time_724/index.html"
+    },
+    {
+        "title": "Luis Paints the World",
+        "price": "\u00a353.95",
+        "image_url": "https://books.toscrape.com/media/cache/85/e7/85e75d5a9309da5807c82decf3d90263.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html"
+    },
+    {
+        "title": "Nap-a-Roo",
+        "price": "\u00a325.08",
+        "image_url": "https://books.toscrape.com/media/cache/27/1f/271faa1d7561473974d12803feb1f0a1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/nap-a-roo_567/index.html"
+    },
+    {
+        "title": "The Whale",
+        "price": "\u00a335.96",
+        "image_url": "https://books.toscrape.com/media/cache/6c/18/6c18ea03e294bfcfe07cf531c6c5f5b3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-whale_501/index.html"
+    },
+    {
+        "title": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "price": "\u00a352.87",
+        "image_url": "https://books.toscrape.com/media/cache/4f/1e/4f1ece2500f8dbacecca42d57befca03.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html"
+    },
+    {
+        "title": "Raymie Nightingale",
+        "price": "\u00a334.41",
+        "image_url": "https://books.toscrape.com/media/cache/8f/66/8f66ec46e671d6fca79649c10c7c8f8a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/raymie-nightingale_482/index.html"
+    },
+    {
+        "title": "Playing from the Heart",
+        "price": "\u00a332.38",
+        "image_url": "https://books.toscrape.com/media/cache/1c/eb/1cebdf525ebe970a1dc3c5a8c50eae6b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/playing-from-the-heart_481/index.html"
+    },
+    {
+        "title": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "price": "\u00a322.54",
+        "image_url": "https://books.toscrape.com/media/cache/c0/bb/c0bb6e42743b9c1aaf9b754501100a5d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html"
+    },
+    {
+        "title": "The Wild Robot",
+        "price": "\u00a356.07",
+        "image_url": "https://books.toscrape.com/media/cache/bf/db/bfdbf9726621276fc7821d705690dbae.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-wild-robot_288/index.html"
+    },
+    {
+        "title": "The Thing About Jellyfish",
+        "price": "\u00a348.77",
+        "image_url": "https://books.toscrape.com/media/cache/e0/90/e090748ce5a567207aed9185c97eb34b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-thing-about-jellyfish_283/index.html"
+    },
+    {
+        "title": "The Lonely Ones",
+        "price": "\u00a343.59",
+        "image_url": "https://books.toscrape.com/media/cache/21/bd/21bdf7ae21476b1debf4aa3eefe6f29d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-lonely-ones_261/index.html"
+    },
+    {
+        "title": "The Day the Crayons Came Home (Crayons)",
+        "price": "\u00a326.33",
+        "image_url": "https://books.toscrape.com/media/cache/ec/08/ec08efebaa33a403e54080b48c139794.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-day-the-crayons-came-home-crayons_241/index.html"
+    }
+]

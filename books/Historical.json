@@ -1,0 +1,14 @@
+[
+    {
+        "title": "All the Light We Cannot See",
+        "price": "\u00a329.87",
+        "image_url": "https://books.toscrape.com/media/cache/41/c3/41c37f7f0e03ee1144dd6fa89483b5d9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html"
+    },
+    {
+        "title": "The Girl You Left Behind (The Girl You Left Behind #1)",
+        "price": "\u00a315.79",
+        "image_url": "https://books.toscrape.com/media/cache/d0/b6/d0b6d59c0662dcbd15d47add40af1ebd.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html"
+    }
+]

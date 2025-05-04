@@ -1,0 +1,56 @@
+[
+    {
+        "title": "The Argonauts",
+        "price": "\u00a310.93",
+        "image_url": "https://books.toscrape.com/media/cache/0a/15/0a1567cd04a6582d333db71337b4e2a6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-argonauts_837/index.html"
+    },
+    {
+        "title": "M Train",
+        "price": "\u00a327.18",
+        "image_url": "https://books.toscrape.com/media/cache/d6/e8/d6e8258cee98f80727e99f7ac5aa1b88.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/m-train_598/index.html"
+    },
+    {
+        "title": "Lab Girl",
+        "price": "\u00a340.85",
+        "image_url": "https://books.toscrape.com/media/cache/e9/72/e972f8b4abaaa6f8f449479cd9d87be3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/lab-girl_595/index.html"
+    },
+    {
+        "title": "Approval Junkie: Adventures in Caring Too Much",
+        "price": "\u00a358.81",
+        "image_url": "https://books.toscrape.com/media/cache/17/aa/17aacb738eace89a635a4eb47a94c11d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html"
+    },
+    {
+        "title": "Running with Scissors",
+        "price": "\u00a312.91",
+        "image_url": "https://books.toscrape.com/media/cache/66/c7/66c7a1537c8901e1e4ec217d1956bae8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/running-with-scissors_215/index.html"
+    },
+    {
+        "title": "Me Talk Pretty One Day",
+        "price": "\u00a357.60",
+        "image_url": "https://books.toscrape.com/media/cache/98/9f/989fe700e9e6bdec4fc3217daa5b7df3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html"
+    },
+    {
+        "title": "Lust & Wonder",
+        "price": "\u00a311.87",
+        "image_url": "https://books.toscrape.com/media/cache/61/ba/61ba5bc1ee3d8cb3dd350120ffa3f31e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/lust-wonder_191/index.html"
+    },
+    {
+        "title": "Life Without a Recipe",
+        "price": "\u00a359.04",
+        "image_url": "https://books.toscrape.com/media/cache/80/b3/80b3e38be4204b3b64cdbe8c80dcf1f9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html"
+    },
+    {
+        "title": "A Heartbreaking Work of Staggering Genius",
+        "price": "\u00a354.29",
+        "image_url": "https://books.toscrape.com/media/cache/7a/58/7a587c5814f33c0c54e8bfa0ef66d690.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "title": "The Secret Garden",
+        "price": "\u00a315.08",
+        "image_url": "https://books.toscrape.com/media/cache/c5/46/c5465a06182ed6ebfa40d049258a2f58.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-secret-garden_413/index.html"
+    },
+    {
+        "title": "The Metamorphosis",
+        "price": "\u00a328.58",
+        "image_url": "https://books.toscrape.com/media/cache/4a/1b/4a1b6e9c1af75db0dc34ae63344f6883.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-metamorphosis_409/index.html"
+    },
+    {
+        "title": "The Pilgrim's Progress",
+        "price": "\u00a350.26",
+        "image_url": "https://books.toscrape.com/media/cache/45/bb/45bb59d19eb3aa868293d44809078418.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-pilgrims-progress_353/index.html"
+    },
+    {
+        "title": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "price": "\u00a314.82",
+        "image_url": "https://books.toscrape.com/media/cache/1f/b0/1fb03cdabe6001c8a2620f65e025cbd5.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html"
+    },
+    {
+        "title": "Little Women (Little Women #1)",
+        "price": "\u00a328.07",
+        "image_url": "https://books.toscrape.com/media/cache/81/f5/81f559ebe403317226fa8b611e35ce8a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html"
+    },
+    {
+        "title": "Gone with the Wind",
+        "price": "\u00a332.49",
+        "image_url": "https://books.toscrape.com/media/cache/27/82/2782701b5c877cb063065b9fc14c5b13.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/gone-with-the-wind_324/index.html"
+    },
+    {
+        "title": "Candide",
+        "price": "\u00a358.63",
+        "image_url": "https://books.toscrape.com/media/cache/e3/c4/e3c4aba2409bb769a6488805e3fc4709.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/candide_316/index.html"
+    },
+    {
+        "title": "Animal Farm",
+        "price": "\u00a357.22",
+        "image_url": "https://books.toscrape.com/media/cache/10/db/10db56354b4550d92270c6f097d9bebc.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/animal-farm_313/index.html"
+    },
+    {
+        "title": "Wuthering Heights",
+        "price": "\u00a317.73",
+        "image_url": "https://books.toscrape.com/media/cache/93/4e/934e966c1ddf559d3ac2b5c1407aaf1e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/wuthering-heights_307/index.html"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "price": "\u00a329.70",
+        "image_url": "https://books.toscrape.com/media/cache/a6/72/a67245346daa38c2b23a4fc64c6e7115.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html"
+    },
+    {
+        "title": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "price": "\u00a326.78",
+        "image_url": "https://books.toscrape.com/media/cache/42/c4/42c48f11b7e70a0f76c5ba9cb5c5018a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html"
+    },
+    {
+        "title": "Beowulf",
+        "price": "\u00a338.35",
+        "image_url": "https://books.toscrape.com/media/cache/dd/6e/dd6e7b84e99f3b4b5655ea0db74af2b4.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/beowulf_126/index.html"
+    },
+    {
+        "title": "And Then There Were None",
+        "price": "\u00a335.01",
+        "image_url": "https://books.toscrape.com/media/cache/21/bf/21bf2eb0bff3134837def8bd40845ba0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/and-then-there-were-none_119/index.html"
+    },
+    {
+        "title": "The Story of Hong Gildong",
+        "price": "\u00a343.19",
+        "image_url": "https://books.toscrape.com/media/cache/ab/16/ab16eb035cc58809a73c4699477de9cb.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html"
+    },
+    {
+        "title": "The Little Prince",
+        "price": "\u00a345.42",
+        "image_url": "https://books.toscrape.com/media/cache/c0/78/c078355608dd81c7c5e4f5e1c5f73d23.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-little-prince_72/index.html"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "price": "\u00a337.46",
+        "image_url": "https://books.toscrape.com/media/cache/7d/53/7d53e2264b9647ee307259be9f73585d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/sense-and-sensibility_49/index.html"
+    },
+    {
+        "title": "Of Mice and Men",
+        "price": "\u00a347.11",
+        "image_url": "https://books.toscrape.com/media/cache/0f/ca/0fca4597765ffacdb7bd529fc5eb88fa.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/of-mice-and-men_37/index.html"
+    },
+    {
+        "title": "Emma",
+        "price": "\u00a332.93",
+        "image_url": "https://books.toscrape.com/media/cache/09/63/09638baaef52f03827c215029c632a13.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/emma_17/index.html"
+    },
+    {
+        "title": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "price": "\u00a355.53",
+        "image_url": "https://books.toscrape.com/media/cache/96/ee/96ee77d71a31b7694dac6855f6affe4e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html"
+    }
+]

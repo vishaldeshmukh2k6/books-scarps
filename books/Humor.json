@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Long Haul (Diary of a Wimpy Kid #9)",
+        "price": "\u00a344.07",
+        "image_url": "https://books.toscrape.com/media/cache/46/bd/46bdee520b8136972262fd040533772d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html"
+    },
+    {
+        "title": "Old School (Diary of a Wimpy Kid #10)",
+        "price": "\u00a311.83",
+        "image_url": "https://books.toscrape.com/media/cache/df/5d/df5d172abe87deda6d533e3e908d27d8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html"
+    },
+    {
+        "title": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+        "price": "\u00a325.98",
+        "image_url": "https://books.toscrape.com/media/cache/ea/7b/ea7bcac4b27a5bf6d4f8125bb7af3361.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html"
+    },
+    {
+        "title": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+        "price": "\u00a314.75",
+        "image_url": "https://books.toscrape.com/media/cache/b5/a9/b5a90d1c36a96513942f006345ace3d2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html"
+    },
+    {
+        "title": "Dress Your Family in Corduroy and Denim",
+        "price": "\u00a343.68",
+        "image_url": "https://books.toscrape.com/media/cache/df/14/df1418baa09e00b877be35066084c9dc.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/dress-your-family-in-corduroy-and-denim_562/index.html"
+    },
+    {
+        "title": "Toddlers Are A**holes: It's Not Your Fault",
+        "price": "\u00a325.55",
+        "image_url": "https://books.toscrape.com/media/cache/4c/30/4c3041def6f29659e009f61e45e492b0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/toddlers-are-aholes-its-not-your-fault_503/index.html"
+    },
+    {
+        "title": "When You Are Engulfed in Flames",
+        "price": "\u00a330.89",
+        "image_url": "https://books.toscrape.com/media/cache/73/36/733662595aede2dff1a5be1e76a3b936.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/when-you-are-engulfed-in-flames_303/index.html"
+    },
+    {
+        "title": "Naked",
+        "price": "\u00a331.69",
+        "image_url": "https://books.toscrape.com/media/cache/e7/12/e71268a559d73826aa64151d47357a12.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/naked_197/index.html"
+    },
+    {
+        "title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "price": "\u00a355.50",
+        "image_url": "https://books.toscrape.com/media/cache/a1/03/a10370da29e4ba78c7a75a14041eae0e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html"
+    },
+    {
+        "title": "Holidays on Ice",
+        "price": "\u00a351.07",
+        "image_url": "https://books.toscrape.com/media/cache/4b/9a/4b9a2a6d4c995e12fe216f6173a582be.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/holidays-on-ice_167/index.html"
+    }
+]

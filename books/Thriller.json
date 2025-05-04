@@ -1,0 +1,68 @@
+[
+    {
+        "title": "In Her Wake",
+        "price": "\u00a312.84",
+        "image_url": "https://books.toscrape.com/media/cache/5d/72/5d72709c6a7a9584a4d1cf07648bfce1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+    },
+    {
+        "title": "The Elephant Tree",
+        "price": "\u00a323.82",
+        "image_url": "https://books.toscrape.com/media/cache/5d/7e/5d7ecde8e81513eba8a64c9fe000744b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html"
+    },
+    {
+        "title": "Behind Closed Doors",
+        "price": "\u00a352.22",
+        "image_url": "https://books.toscrape.com/media/cache/e1/5c/e15c289ba58cea38519e1281e859f0c1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html"
+    },
+    {
+        "title": "You (You #1)",
+        "price": "\u00a343.61",
+        "image_url": "https://books.toscrape.com/media/cache/d6/97/d697268540fa982f4dce39f61ed3a342.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/you-you-1_784/index.html"
+    },
+    {
+        "title": "The Guilty (Will Robie #4)",
+        "price": "\u00a313.82",
+        "image_url": "https://books.toscrape.com/media/cache/76/de/76deee06ffe45e646c0113af01f4f401.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html"
+    },
+    {
+        "title": "The 14th Colony (Cotton Malone #11)",
+        "price": "\u00a339.24",
+        "image_url": "https://books.toscrape.com/media/cache/d9/1a/d91aae72af6c1cb2c63163acabe7895c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html"
+    },
+    {
+        "title": "Give It Back",
+        "price": "\u00a318.32",
+        "image_url": "https://books.toscrape.com/media/cache/8b/7c/8b7c73e075cc687b6890dc0dca9fcbcc.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/give-it-back_430/index.html"
+    },
+    {
+        "title": "Killing Floor (Jack Reacher #1)",
+        "price": "\u00a331.49",
+        "image_url": "https://books.toscrape.com/media/cache/eb/e9/ebe9f06ccebf83d9853a846052b58fff.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html"
+    },
+    {
+        "title": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+        "price": "\u00a359.71",
+        "image_url": "https://books.toscrape.com/media/cache/ee/d4/eed4d5d63d13f0aa86575c90f8ccacb7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html"
+    },
+    {
+        "title": "Far From True (Promise Falls Trilogy #2)",
+        "price": "\u00a334.93",
+        "image_url": "https://books.toscrape.com/media/cache/87/54/8754267f27581996f93e8d94d3c04bf9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html"
+    },
+    {
+        "title": "The Travelers",
+        "price": "\u00a315.77",
+        "image_url": "https://books.toscrape.com/media/cache/2a/a8/2aa8afd15f97617ab75f616766161cda.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-travelers_285/index.html"
+    }
+]

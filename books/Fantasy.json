@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Unicorn Tracks",
+        "price": "\u00a318.78",
+        "image_url": "https://books.toscrape.com/media/cache/76/8e/768ea5924ac1ef6297c2be9959c796c2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html"
+    },
+    {
+        "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "price": "\u00a325.02",
+        "image_url": "https://books.toscrape.com/media/cache/43/ae/43aee83ebb31e2122a7215e413770e5c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html"
+    },
+    {
+        "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "price": "\u00a313.34",
+        "image_url": "https://books.toscrape.com/media/cache/b7/e8/b7e84b78be3d9bb79b71156a5e5d4e42.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html"
+    },
+    {
+        "title": "Masks and Shadows",
+        "price": "\u00a356.40",
+        "image_url": "https://books.toscrape.com/media/cache/ff/e8/ffe81bf98f8386ef29e193abfb6f9c1e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html"
+    },
+    {
+        "title": "Crown of Midnight (Throne of Glass #2)",
+        "price": "\u00a343.29",
+        "image_url": "https://books.toscrape.com/media/cache/66/25/6625e3bbb050de3e42a0c302c0d69f1f.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html"
+    },
+    {
+        "title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "price": "\u00a328.09",
+        "image_url": "https://books.toscrape.com/media/cache/06/18/061811c5845d0e13bc04b2a755f0830f.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html"
+    },
+    {
+        "title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "price": "\u00a352.37",
+        "image_url": "https://books.toscrape.com/media/cache/c0/88/c08816960890396213a423941af65b8f.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html"
+    },
+    {
+        "title": "Throne of Glass (Throne of Glass #1)",
+        "price": "\u00a335.07",
+        "image_url": "https://books.toscrape.com/media/cache/32/d6/32d6aa560e8ddf2a4da1526b95d4c7ab.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html"
+    },
+    {
+        "title": "The Glittering Court (The Glittering Court #1)",
+        "price": "\u00a344.28",
+        "image_url": "https://books.toscrape.com/media/cache/3e/0b/3e0b16851bec08b6cbf78d5f64af9114.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html"
+    },
+    {
+        "title": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)",
+        "price": "\u00a342.98",
+        "image_url": "https://books.toscrape.com/media/cache/e2/60/e260b008b7ea7970562295b7bc64b0cb.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html"
+    },
+    {
+        "title": "The Star-Touched Queen",
+        "price": "\u00a346.02",
+        "image_url": "https://books.toscrape.com/media/cache/53/5e/535e2be0b423797c2cdc7d98882c820a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html"
+    },
+    {
+        "title": "The Hidden Oracle (The Trials of Apollo #1)",
+        "price": "\u00a352.26",
+        "image_url": "https://books.toscrape.com/media/cache/b4/67/b467a4f01ca6ae8464b9425a156c7c32.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html"
+    },
+    {
+        "title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+        "price": "\u00a344.73",
+        "image_url": "https://books.toscrape.com/media/cache/9a/33/9a333c4a06ce187c5c9d2f5969ddcac2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html"
+    },
+    {
+        "title": "Island of Dragons (Unwanteds #7)",
+        "price": "\u00a329.65",
+        "image_url": "https://books.toscrape.com/media/cache/75/b9/75b99691594fde72ccb1831624cfeff6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html"
+    },
+    {
+        "title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "price": "\u00a337.51",
+        "image_url": "https://books.toscrape.com/media/cache/8f/80/8f8074d9f035c2a0ef8595ad89f7bcc8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html"
+    },
+    {
+        "title": "City of Glass (The Mortal Instruments #3)",
+        "price": "\u00a356.02",
+        "image_url": "https://books.toscrape.com/media/cache/00/08/0008e65aa431ed3625ad3a4352f8e90d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html"
+    },
+    {
+        "title": "Searching for Meaning in Gailana",
+        "price": "\u00a338.73",
+        "image_url": "https://books.toscrape.com/media/cache/3b/04/3b045fe0394dc192950a0ec9e3812fe4.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html"
+    },
+    {
+        "title": "The Star-Touched Queen",
+        "price": "\u00a332.30",
+        "image_url": "https://books.toscrape.com/media/cache/d3/0d/d30dd8b6be6f9fcfd17178e8083238b6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html"
+    },
+    {
+        "title": "A Shard of Ice (The Black Symphony Saga #1)",
+        "price": "\u00a356.63",
+        "image_url": "https://books.toscrape.com/media/cache/27/64/27649cb5da52970f4bb2fc5234a48578.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html"
+    },
+    {
+        "title": "King's Folly (The Kinsman Chronicles #1)",
+        "price": "\u00a339.61",
+        "image_url": "https://books.toscrape.com/media/cache/3e/2d/3e2d526ee062008ab1cbf54f90a5abb2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html"
+    }
+]

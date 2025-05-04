@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Redeeming Love",
+        "price": "\u00a320.47",
+        "image_url": "https://books.toscrape.com/media/cache/21/21/2121ba78e26194d92c334fde3850f840.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/redeeming-love_826/index.html"
+    },
+    {
+        "title": "Close to You",
+        "price": "\u00a349.46",
+        "image_url": "https://books.toscrape.com/media/cache/fa/f6/faf6d69a42f477e1da80a71f05a4dc25.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/close-to-you_798/index.html"
+    },
+    {
+        "title": "Shadows of the Past (Logan Point #1)",
+        "price": "\u00a339.67",
+        "image_url": "https://books.toscrape.com/media/cache/93/e0/93e0ec623673a8f83598c9aa7b6c94ec.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html"
+    },
+    {
+        "title": "Like Never Before (Walker Family #2)",
+        "price": "\u00a328.77",
+        "image_url": "https://books.toscrape.com/media/cache/17/e2/17e264d978942f73b859fa1c1d2cf827.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html"
+    },
+    {
+        "title": "Counted With the Stars (Out from Egypt #1)",
+        "price": "\u00a317.97",
+        "image_url": "https://books.toscrape.com/media/cache/32/2c/322c1f6cce6d5a69a7d2321779195a0c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html"
+    },
+    {
+        "title": "If I Run (If I Run #1)",
+        "price": "\u00a349.97",
+        "image_url": "https://books.toscrape.com/media/cache/c3/d0/c3d0f2fb5cacbca64639a679b962e1b9.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html"
+    }
+]

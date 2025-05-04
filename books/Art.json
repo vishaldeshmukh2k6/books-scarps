@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Wall and Piece",
+        "price": "\u00a344.18",
+        "image_url": "https://books.toscrape.com/media/cache/a5/41/a5416b9646aaa7287baa287ec2590270.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html"
+    },
+    {
+        "title": "Feathers: Displays of Brilliant Plumage",
+        "price": "\u00a349.05",
+        "image_url": "https://books.toscrape.com/media/cache/f2/ee/f2ee668cf593ff13a9560c2801e9c2a2.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/feathers-displays-of-brilliant-plumage_695/index.html"
+    },
+    {
+        "title": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+        "price": "\u00a348.63",
+        "image_url": "https://books.toscrape.com/media/cache/ef/80/ef80e6100214c486562a73ce76444826.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html"
+    },
+    {
+        "title": "The New Drawing on the Right Side of the Brain",
+        "price": "\u00a343.02",
+        "image_url": "https://books.toscrape.com/media/cache/6a/55/6a55ccd4bc2383f5fe915fbef8bd5a23.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html"
+    },
+    {
+        "title": "History of Beauty",
+        "price": "\u00a310.29",
+        "image_url": "https://books.toscrape.com/media/cache/58/a6/58a634c3231b5380544cc330536cb5ea.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/history-of-beauty_521/index.html"
+    },
+    {
+        "title": "The Story of Art",
+        "price": "\u00a341.14",
+        "image_url": "https://books.toscrape.com/media/cache/bb/36/bb364a10868756d1c0877c928b43b533.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-story-of-art_500/index.html"
+    },
+    {
+        "title": "The Art Book",
+        "price": "\u00a332.34",
+        "image_url": "https://books.toscrape.com/media/cache/99/51/99511f4da1a4a2114e2ed12e6ba17b65.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-art-book_490/index.html"
+    },
+    {
+        "title": "Ways of Seeing",
+        "price": "\u00a339.51",
+        "image_url": "https://books.toscrape.com/media/cache/a8/3a/a83a4d31d30dc3cb26a29899a5c3b91d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/ways-of-seeing_94/index.html"
+    }
+]

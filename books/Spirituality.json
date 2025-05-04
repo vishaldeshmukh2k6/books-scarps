@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "price": "\u00a317.66",
+        "image_url": "https://books.toscrape.com/media/cache/0f/7e/0f7ee69495c0df1d35723f012624a9f8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html"
+    },
+    {
+        "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price": "\u00a332.24",
+        "image_url": "https://books.toscrape.com/media/cache/96/db/96db61bb53930c560fb4c1c62b583816.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html"
+    },
+    {
+        "title": "Chasing Heaven: What Dying Taught Me About Living",
+        "price": "\u00a337.80",
+        "image_url": "https://books.toscrape.com/media/cache/b7/6a/b76a73640d26b09c4a6f373b09050bed.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/chasing-heaven-what-dying-taught-me-about-living_797/index.html"
+    },
+    {
+        "title": "If I Gave You God's Phone Number....: Searching for Spirituality in America",
+        "price": "\u00a320.91",
+        "image_url": "https://books.toscrape.com/media/cache/87/fe/87fe3f7f3f62c1b1b81890578c9cf294.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html"
+    },
+    {
+        "title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+        "price": "\u00a346.33",
+        "image_url": "https://books.toscrape.com/media/cache/8b/10/8b102daec94d1ea9c6fc36dd3ec1c1fe.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html"
+    },
+    {
+        "title": "A New Earth: Awakening to Your Life's Purpose",
+        "price": "\u00a355.65",
+        "image_url": "https://books.toscrape.com/media/cache/83/c8/83c834b3779be4e577c37ead6d2acf65.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html"
+    }
+]

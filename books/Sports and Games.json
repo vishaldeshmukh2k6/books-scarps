@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Book of Basketball: The NBA According to The Sports Guy",
+        "price": "\u00a344.84",
+        "image_url": "https://books.toscrape.com/media/cache/61/2c/612caeb0b2acb35c100629f0f52a40d7.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html"
+    },
+    {
+        "title": "Friday Night Lights: A Town, a Team, and a Dream",
+        "price": "\u00a351.22",
+        "image_url": "https://books.toscrape.com/media/cache/7d/cf/7dcf6c3b419bf7e7e3b3b8162b177869.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html"
+    },
+    {
+        "title": "Sugar Rush (Offensive Line #2)",
+        "price": "\u00a324.42",
+        "image_url": "https://books.toscrape.com/media/cache/c3/a9/c3a90a5baa833a37c29c4b03a444737c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html"
+    },
+    {
+        "title": "Settling the Score (The Summer Games #1)",
+        "price": "\u00a344.91",
+        "image_url": "https://books.toscrape.com/media/cache/9b/4e/9b4ece2ab5a6335c8594c878e2f22df1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html"
+    },
+    {
+        "title": "Icing (Aces Hockey #2)",
+        "price": "\u00a340.44",
+        "image_url": "https://books.toscrape.com/media/cache/8d/1e/8d1e285bf672b2ea66879490cc5f6904.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html"
+    }
+]

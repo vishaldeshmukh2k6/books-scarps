@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Tipping the Velvet",
+        "price": "\u00a353.74",
+        "image_url": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+    },
+    {
+        "title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "price": "\u00a329.69",
+        "image_url": "https://books.toscrape.com/media/cache/d6/58/d658a1485b130ff26ca5fb0d5975ed2e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html"
+    },
+    {
+        "title": "A Flight of Arrows (The Pathfinders #2)",
+        "price": "\u00a355.53",
+        "image_url": "https://books.toscrape.com/media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html"
+    },
+    {
+        "title": "The House by the Lake",
+        "price": "\u00a336.95",
+        "image_url": "https://books.toscrape.com/media/cache/0d/cb/0dcb33d60b0e79adf8ab9842e697ea2e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html"
+    },
+    {
+        "title": "Mrs. Houdini",
+        "price": "\u00a330.25",
+        "image_url": "https://books.toscrape.com/media/cache/0e/fe/0efe86960cdff718aed01a5c3f65b1c3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/mrs-houdini_821/index.html"
+    },
+    {
+        "title": "The Marriage of Opposites",
+        "price": "\u00a328.08",
+        "image_url": "https://books.toscrape.com/media/cache/0f/c2/0fc21ec3489cb23116778ee84f425eca.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html"
+    },
+    {
+        "title": "Glory over Everything: Beyond The Kitchen House",
+        "price": "\u00a345.84",
+        "image_url": "https://books.toscrape.com/media/cache/96/41/964194a317f8ce5ed031bf4c9ceb43ab.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html"
+    },
+    {
+        "title": "Love, Lies and Spies",
+        "price": "\u00a320.55",
+        "image_url": "https://books.toscrape.com/media/cache/7a/22/7a224a6e174af91950e9b124afe54e0e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html"
+    },
+    {
+        "title": "A Paris Apartment",
+        "price": "\u00a339.01",
+        "image_url": "https://books.toscrape.com/media/cache/16/57/16575316618bd7e922d5b0e0f87de2ca.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html"
+    },
+    {
+        "title": "Lilac Girls",
+        "price": "\u00a317.28",
+        "image_url": "https://books.toscrape.com/media/cache/6c/2e/6c2e764e3ea89859b52df8de4f12af7a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/lilac-girls_597/index.html"
+    },
+    {
+        "title": "The Constant Princess (The Tudor Court #1)",
+        "price": "\u00a316.62",
+        "image_url": "https://books.toscrape.com/media/cache/fc/80/fc80b999ff4b8ef24b7071f62d2bf6d1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html"
+    },
+    {
+        "title": "The Invention of Wings",
+        "price": "\u00a337.34",
+        "image_url": "https://books.toscrape.com/media/cache/62/fa/62fa1e72f06f05762db5d9cedf654153.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html"
+    },
+    {
+        "title": "World Without End (The Pillars of the Earth #2)",
+        "price": "\u00a332.97",
+        "image_url": "https://books.toscrape.com/media/cache/be/7c/be7ce6fbc9a8e1a5a5b5c32e73cfd78a.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html"
+    },
+    {
+        "title": "The Passion of Dolssa",
+        "price": "\u00a328.32",
+        "image_url": "https://books.toscrape.com/media/cache/6b/82/6b822681c4035131560d40dd3b5a6a2e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html"
+    },
+    {
+        "title": "Girl With a Pearl Earring",
+        "price": "\u00a326.77",
+        "image_url": "https://books.toscrape.com/media/cache/b7/ad/b7ad37d93d8401c84d7325aa645ff6d5.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html"
+    },
+    {
+        "title": "Voyager (Outlander #3)",
+        "price": "\u00a321.07",
+        "image_url": "https://books.toscrape.com/media/cache/b5/d8/b5d813da01f2ccd7bcfe34e2b875e752.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html"
+    },
+    {
+        "title": "The Red Tent",
+        "price": "\u00a335.66",
+        "image_url": "https://books.toscrape.com/media/cache/b2/8f/b28f211e50e74445ca071d4279d1080d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-red-tent_273/index.html"
+    },
+    {
+        "title": "The Last Painting of Sara de Vos",
+        "price": "\u00a355.55",
+        "image_url": "https://books.toscrape.com/media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html"
+    },
+    {
+        "title": "The Guernsey Literary and Potato Peel Pie Society",
+        "price": "\u00a349.53",
+        "image_url": "https://books.toscrape.com/media/cache/18/f7/18f7bf6366cd7a8b947fd790d808047b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html"
+    },
+    {
+        "title": "Girl in the Blue Coat",
+        "price": "\u00a346.83",
+        "image_url": "https://books.toscrape.com/media/cache/bf/7a/bf7a5bc1d1ebac5e9b6fbb147828a123.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html"
+    }
+]

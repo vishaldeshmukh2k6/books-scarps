@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": "\u00a354.23",
+        "image_url": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+    },
+    {
+        "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price": "\u00a325.52",
+        "image_url": "https://books.toscrape.com/media/cache/4a/3b/4a3b055f9e378a95fedbef55e7bab7ce.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html"
+    },
+    {
+        "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price": "\u00a319.73",
+        "image_url": "https://books.toscrape.com/media/cache/2d/4e/2d4e358712e6c9f1d3bdd78d1a16e5a8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html"
+    },
+    {
+        "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price": "\u00a336.28",
+        "image_url": "https://books.toscrape.com/media/cache/64/44/6444dacdcb9edaadbbd691524622aeb8.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html"
+    },
+    {
+        "title": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "price": "\u00a359.64",
+        "image_url": "https://books.toscrape.com/media/cache/97/47/974709d437b08e74649b5744471bf472.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html"
+    },
+    {
+        "title": "Zealot: The Life and Times of Jesus of Nazareth",
+        "price": "\u00a324.70",
+        "image_url": "https://books.toscrape.com/media/cache/3d/60/3d6003fc37b842a07c2dbe28e47448e1.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html"
+    },
+    {
+        "title": "A Distant Mirror: The Calamitous 14th Century",
+        "price": "\u00a314.58",
+        "image_url": "https://books.toscrape.com/media/cache/41/d5/41d5fa6a81cdbcbe6b0b15757a4c9144.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html"
+    },
+    {
+        "title": "1491: New Revelations of the Americas Before Columbus",
+        "price": "\u00a321.80",
+        "image_url": "https://books.toscrape.com/media/cache/88/75/8875f384ce9103281b7f6e86a2b8204d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html"
+    },
+    {
+        "title": "Brilliant Beacons: A History of the American Lighthouse",
+        "price": "\u00a311.45",
+        "image_url": "https://books.toscrape.com/media/cache/56/cb/56cb66d73fb438d64af14dce8bd8b22b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html"
+    },
+    {
+        "title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "price": "\u00a344.48",
+        "image_url": "https://books.toscrape.com/media/cache/11/af/11af7fbd6aec06a75fe207fae92b17e0.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html"
+    },
+    {
+        "title": "A Short History of Nearly Everything",
+        "price": "\u00a352.40",
+        "image_url": "https://books.toscrape.com/media/cache/3c/f6/3cf646523ff7fb8647c500d6325cfcaf.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html"
+    },
+    {
+        "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "price": "\u00a339.67",
+        "image_url": "https://books.toscrape.com/media/cache/e1/02/e102cefae5bb523bc67eb6b49bc18b5d.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html"
+    },
+    {
+        "title": "Catherine the Great: Portrait of a Woman",
+        "price": "\u00a358.55",
+        "image_url": "https://books.toscrape.com/media/cache/72/f1/72f13b8f069d3a018d2c378be5a1de20.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html"
+    },
+    {
+        "title": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "price": "\u00a342.91",
+        "image_url": "https://books.toscrape.com/media/cache/f2/64/f26457d65a03b2636c4bcc7c318f7346.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html"
+    },
+    {
+        "title": "The Hiding Place",
+        "price": "\u00a355.91",
+        "image_url": "https://books.toscrape.com/media/cache/cf/18/cf187c1dc5575fcbbf49c58024146c4b.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-hiding-place_406/index.html"
+    },
+    {
+        "title": "America's War for the Greater Middle East: A Military History",
+        "price": "\u00a351.22",
+        "image_url": "https://books.toscrape.com/media/cache/eb/17/eb178eceef1e9290591cabd5155571a3.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html"
+    },
+    {
+        "title": "The Guns of August",
+        "price": "\u00a314.54",
+        "image_url": "https://books.toscrape.com/media/cache/06/c8/06c897070611b78b80a37333cbb7851c.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html"
+    },
+    {
+        "title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "price": "\u00a343.70",
+        "image_url": "https://books.toscrape.com/media/cache/43/fd/43fda1db93163d67705264dcfa98aaa5.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html"
+    }
+]

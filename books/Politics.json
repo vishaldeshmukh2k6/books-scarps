@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Libertarianism for Beginners",
+        "price": "\u00a351.33",
+        "image_url": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+    },
+    {
+        "title": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+        "price": "\u00a352.65",
+        "image_url": "https://books.toscrape.com/media/cache/db/1b/db1babd3c09b84da800b0e9897fe0097.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html"
+    },
+    {
+        "title": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+        "price": "\u00a356.86",
+        "image_url": "https://books.toscrape.com/media/cache/00/11/001153d2a22d889837efac1703e10a5e.jpg",
+        "book_url": "https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html"
+    }
+]
